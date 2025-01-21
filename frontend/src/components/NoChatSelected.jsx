@@ -17,9 +17,9 @@ const NoChatSelected = () => {
         </div>
 
         {/* Welcome Text */}
-        <h2 className="text-2xl font-bold">Welcome to Chatty!</h2>
+        <h2 className="text-2xl font-bold">Come be closer to my heart!</h2>
         <p className="text-base-content/60">
-          Select a conversation from the sidebar to start chatting
+          I will come back Dominika wait for me
         </p>
       </div>
     </div>
